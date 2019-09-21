@@ -14,8 +14,9 @@ Ellis is a Vanilla JS application using Ruby on Rails API as the backend. Upon l
 
 ## INSTRUCTIONS
 
-1. In terminal, run `rails s`
-2. Go to frontend repository (https://github.com/ekatsuta/Ellis-client-side) and run `open index.html` on terminal
+1. `bundle install`
+2. On terminal, run `rails s`
+2. Go to frontend repository (https://github.com/ekatsuta/Ellis-client-side), `npm install` then run `open index.html` on terminal
 
 
 ## PROJECT REQUIREMENTS
