@@ -12,6 +12,12 @@ A web application to study for the U.S. citizenship test, using an interactive f
 Ellis is a Vanilla JS application using Ruby on Rails API as the backend. Upon login, user is prompted to the home page where they can see past score stats, choose from different number of questions or different categories of questions. The questions are randomized for each session. Learn More button leads to detailed information of the citizenship test process, available in English, Spanish & Chinese. 
 
 
+## INSTRUCTIONS
+
+1. In terminal, run `rails s`
+2. Go to frontend repository (https://github.com/ekatsuta/Ellis-client-side) and run `open index.html` on terminal
+
+
 ## PROJECT REQUIREMENTS
 
 1. Must be a HTML/CSS/JS frontend with a Rails API backend. All interactions between the client and the server should be handled asynchronously (AJAX) and use JSON as the communication format. 
@@ -26,4 +32,4 @@ Ellis is a Vanilla JS application using Ruby on Rails API as the backend. Upon l
 
 
 ### Collaborator:
-[@ekatsuta](https://github.com/ekatsuta)
+[@chrisyuaners](https://github.com/chrisyuaners)
